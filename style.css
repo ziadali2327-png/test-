@@ -1,9 +1,9 @@
 h1{
-    color:lab(0% 0 0;
+    color:red;
     font-size: 70px;
 }
 p{
-    color:lab(0% 0 0);
+    color:black;
     font-size: 30px;
 }
 hr {
