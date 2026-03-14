@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    h1{
+      color:aqua;
+    }
+  </style>
+</head>
+<body>
+  <h1 style="color:pink;font-size: 98px;">ziad</h1>
+  <img src="css.jpg" style="width: 450px;height: 300px;" alt="IMG">
+  <hr>
+  <p> this is a montan ana asmy ziad el agha I AM A BAT MAN i live in a the shadow with darknes </p>
+  <h2>ziad</h2>
+ <h3>ziad</h3>
+</body>
+</html>
